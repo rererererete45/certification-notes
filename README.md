@@ -8,26 +8,27 @@
 
 ### 자격증
 
-* 정보처리기사 실기
-* 지적기사 필기
-* 지적기사 실기
+* [정보처리기사 실기](./information-processing/)
+* [지적기사](./cadastral-engineer/)
+
+  * [지적기사 필기](./cadastral-engineer/written/)
+  * [지적기사 실기](./cadastral-engineer/practical/)
 
 ### 데이터 및 통계
 
-* 데이터 분석
-* 통계학
-* SQL
+* [데이터 분석](./data-analysis/)
+* [통계학](./statistics/)
+* [SQL](./sql/)
 
 ### 인공지능
 
-* 머신러닝
-* 딥러닝
-* PyTorch
+* [머신러닝](./machine-learning/)
+* [딥러닝과 PyTorch](./deep-learning-pytorch/)
 
 ### 공간정보
 
-* QGIS
-* PyQGIS
+* [QGIS와 PyQGIS](./pyqgis/)
+
 
 ## 저장소 구성 예정
 
